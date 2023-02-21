@@ -1,0 +1,18 @@
+{
+  "name": "latitude55",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server --mount='/:/src' --entry-file='./src/index.html' --watch='./src'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "8.0.3",
+    "lint-staged": "13.1.2",
+    "live-server": "1.2.2",
+    "prettier": "2.8.4"
+  }
+}
